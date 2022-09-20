@@ -1,0 +1,9 @@
+E:\Sorteador\Programa de Sorteio\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+E:\Sorteador\Programa de Sorteio\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+E:\Sorteador\Programa de Sorteio\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+E:\Sorteador\Programa de Sorteio\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+E:\Sorteador\Programa de Sorteio\WindowsFormsApplication5\obj\Debug\Programa de Sorteio.csprojResolveAssemblyReference.cache
+E:\Sorteador\Programa de Sorteio\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+E:\Sorteador\Programa de Sorteio\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+E:\Sorteador\Programa de Sorteio\WindowsFormsApplication5\obj\Debug\Programa de Sorteio.csproj.GenerateResource.Cache
+E:\Sorteador\Programa de Sorteio\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb

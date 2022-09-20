@@ -1,0 +1,18 @@
+c:\Documentos\Escola\Projeto Soma(Escola)\Projeto Soma(Escola)\bin\Debug\Projeto Soma(Escola).exe.config
+c:\Documentos\Escola\Projeto Soma(Escola)\Projeto Soma(Escola)\bin\Debug\Projeto Soma(Escola).exe
+c:\Documentos\Escola\Projeto Soma(Escola)\Projeto Soma(Escola)\bin\Debug\Projeto Soma(Escola).pdb
+c:\Documentos\Escola\Projeto Soma(Escola)\Projeto Soma(Escola)\obj\Debug\Projeto Soma(Escola).csprojResolveAssemblyReference.cache
+c:\Documentos\Escola\Projeto Soma(Escola)\Projeto Soma(Escola)\obj\Debug\Projeto_Soma_Escola_.Form1.resources
+c:\Documentos\Escola\Projeto Soma(Escola)\Projeto Soma(Escola)\obj\Debug\Projeto_Soma_Escola_.Properties.Resources.resources
+c:\Documentos\Escola\Projeto Soma(Escola)\Projeto Soma(Escola)\obj\Debug\Projeto Soma(Escola).csproj.GenerateResource.Cache
+c:\Documentos\Escola\Projeto Soma(Escola)\Projeto Soma(Escola)\obj\Debug\Projeto Soma(Escola).exe
+c:\Documentos\Escola\Projeto Soma(Escola)\Projeto Soma(Escola)\obj\Debug\Projeto Soma(Escola).pdb
+C:\Users\Guilherme\Documents\ESCOLA\2°Ano\LPOO\C#\Projeto Soma(Escola)\Projeto Soma(Escola)\bin\Debug\Projeto Soma(Escola).exe.config
+C:\Users\Guilherme\Documents\ESCOLA\2°Ano\LPOO\C#\Projeto Soma(Escola)\Projeto Soma(Escola)\obj\Debug\Projeto Soma(Escola).exe
+C:\Users\Guilherme\Documents\ESCOLA\2°Ano\LPOO\C#\Projeto Soma(Escola)\Projeto Soma(Escola)\obj\Debug\Projeto Soma(Escola).pdb
+C:\Users\Guilherme\Documents\ESCOLA\2°Ano\LPOO\C#\Projeto Soma(Escola)\Projeto Soma(Escola)\bin\Debug\Projeto Soma(Escola).exe
+C:\Users\Guilherme\Documents\ESCOLA\2°Ano\LPOO\C#\Projeto Soma(Escola)\Projeto Soma(Escola)\bin\Debug\Projeto Soma(Escola).pdb
+C:\Users\Guilherme\Documents\ESCOLA\2°Ano\LPOO\C#\Projeto Soma(Escola)\Projeto Soma(Escola)\obj\Debug\Projeto Soma(Escola).csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Documents\ESCOLA\2°Ano\LPOO\C#\Projeto Soma(Escola)\Projeto Soma(Escola)\obj\Debug\Projeto_Soma_Escola_.Form1.resources
+C:\Users\Guilherme\Documents\ESCOLA\2°Ano\LPOO\C#\Projeto Soma(Escola)\Projeto Soma(Escola)\obj\Debug\Projeto_Soma_Escola_.Properties.Resources.resources
+C:\Users\Guilherme\Documents\ESCOLA\2°Ano\LPOO\C#\Projeto Soma(Escola)\Projeto Soma(Escola)\obj\Debug\Projeto Soma(Escola).csproj.GenerateResource.Cache

@@ -1,0 +1,30 @@
+create database testeSite002;
+use testeSite002;
+
+create table Produtos
+(
+cod int auto_increment,
+nome varchar(250),
+preco decimal,
+primary key(cod)
+);
+
+create table Vendas(
+cod int auto_increment,
+total decimal,
+    primary key(cod)
+);
+
+create table Itens_venda(
+cod int auto_increment,
+subtotal decimal,
+cod_Produto int,
+cod_Venda int,
+quantidade int,
+    primary key(cod)
+);
+
+alter table Itens_Venda add Constraint FK_IVendas foreign Key (cod_Venda) references Vendas(cod);
+alter table add Constraint FK_IProduto foreign key (cod_Produto) references Produto(cod);
+
+create procedure

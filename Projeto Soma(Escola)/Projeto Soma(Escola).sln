@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto Soma(Escola)", "Projeto Soma(Escola)\Projeto Soma(Escola).csproj", "{4AFB9713-E31D-4520-8BDB-7DBF1B19035E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AFB9713-E31D-4520-8BDB-7DBF1B19035E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AFB9713-E31D-4520-8BDB-7DBF1B19035E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AFB9713-E31D-4520-8BDB-7DBF1B19035E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AFB9713-E31D-4520-8BDB-7DBF1B19035E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
